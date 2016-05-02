@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.pending.css.index.Main2Activity"
+    tools:showIn="@layout/app_bar_main2"
+    android:background="#E5E5E5"
+>
+    <TextView
+        android:id="@+id/current_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="未完成"
+        android:layout_marginLeft="10dp"
+        android:background="#E5E5E5"
+        android:textSize="16sp"
+        />
+    <com.pending.css.widget.SlideCutListView
+        android:id="@+id/pending_no_finished"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </com.pending.css.widget.SlideCutListView>
+
+<!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical"-->
+    <!--android:background="#F2F2F2"-->
+    <!-->-->
+    <!--<TextView-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textColor="@color/main_font_color"-->
+        <!--android:text="已完成"/>-->
+
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="2dp"-->
+        <!--android:src="@mipmap/spilt_line"/>-->
+
+<!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<ListView-->
+            <!--android:id="@+id/pending_finish"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
+        <!--</ListView>-->
+    <!--</LinearLayout>-->
+
+
+
+</LinearLayout>

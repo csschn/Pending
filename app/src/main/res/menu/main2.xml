@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/login_out"
+        android:orderInCategory="200"
+        android:title="退出登录"
+        app:showAsAction="" />
+
+    <item
+        android:id="@+id/action_close"
+        android:orderInCategory="150"
+        android:title="关闭密码"
+        app:showAsAction="" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="设置密码"
+        app:showAsAction="" />
+    <item
+        android:id="@+id/action_finished"
+        android:orderInCategory="10"
+        android:title="已完成"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_seach"
+        android:orderInCategory="50"
+        android:title="@string/action_seach"
+        android:icon="@mipmap/ic_search_white_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="20"
+        android:title="刷新"
+        android:icon="@mipmap/ic_cached_white_24dp"
+        app:showAsAction="always" />
+</menu>

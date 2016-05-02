@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="音频已存在，重新录制将覆盖上个音频，您可以点击播放"
+        android:visibility="gone"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"/>
+    <Button
+        android:id="@+id/btn_record"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="按住 说话"/>
+    <Button
+        android:id="@+id/btn_re_record"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="长按重新录制"
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/btn_play"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="播放录音"/>
+
+</LinearLayout>

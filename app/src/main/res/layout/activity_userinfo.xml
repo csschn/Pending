@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:imagecontrol="http://schemas.android.com/tools"
+    android:orientation="vertical">
+    <include layout="@layout/include_header" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:background="@drawable/userinfo_picture_bg"
+        android:orientation="vertical">
+
+        <com.pending.css.widget.RoundImageView
+            android:id="@+id/right_login_head2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            imagecontrol:border_outside_color="#FFFF0000"
+            imagecontrol:border_thickness="2dp"
+            android:src="@drawable/people_bg_default"
+            />
+
+
+        <TextView
+            android:id="@+id/user_nick_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:textSize="20sp"
+            />
+
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="3"
+        android:background="#F0F3F6"
+        android:orientation="vertical">
+
+
+        <!-- 昵称-->
+        <LinearLayout style="@style/wrap_layout">
+            <LinearLayout
+                android:id="@+id/user_nick"
+                style="@style/single_layout">
+                <TextView
+                    android:id="@+id/user_nick_text"
+                    style="@style/usertext"
+                    android:text="昵称"
+                    android:layout_weight="8"/>
+                <TextView
+                    android:id="@+id/nick_show"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="点击添加昵称！"
+                    android:layout_weight="1"/>
+                <ImageView style="@style/img_arrow"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- 邮箱-->
+        <LinearLayout style="@style/wrap_layout">
+            <LinearLayout
+                android:id="@+id/user_email"
+                style="@style/single_layout">
+                <TextView
+                    android:id="@+id/user_email_text"
+                    style="@style/usertext"
+                    android:text="邮箱"
+                    android:layout_weight="8"/>
+                <TextView
+                    android:id="@+id/email_show"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="点击设置邮箱！"
+                    android:layout_weight="1"/>
+                <ImageView style="@style/img_arrow"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+
+
+        </LinearLayout>
+
+        <!-- 绑定手机号-->
+        <LinearLayout
+
+            style="@style/wrap_layout">
+            <LinearLayout
+                android:id="@+id/bind_phone"
+                style="@style/single_layout">
+                <TextView
+                    android:id="@+id/bind_phone_text"
+                    style="@style/usertext"
+                    android:text="绑定手机号"/>
+                <ImageView style="@style/img_arrow"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- 修改密码-->
+        <LinearLayout
+            style="@style/wrap_layout">
+            <LinearLayout
+                android:id="@+id/change_password"
+                style="@style/single_layout">
+                <TextView
+                    style="@style/usertext"
+                    android:text="修改密码"/>
+                <ImageView style="@style/img_arrow"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- 退出登录-->
+        <LinearLayout  style="@style/wrap_layout"
+                       >
+            <LinearLayout
+                android:id="@+id/exit_login"
+                style="@style/single_layout">
+                <TextView
+                    style="@style/usertext"
+                    android:gravity="center"
+                    android:text="退出登录"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

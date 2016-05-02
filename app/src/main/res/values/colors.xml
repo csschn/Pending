@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#419DE4</color>
+    <color name="colorPrimaryDark">#419DE4</color>
+    <color name="colorAccent">#419DE4</color>
+    <color name="text_red">#419DE4</color>
+    <color name="line_bg">#ffbababa</color>
+    <color name="white">#ffffffff</color>
+    <color name="main_bg_color">#419DE4</color>
+    <color name="layout_bg_color">#f8f8f8</color>
+    <color name="main_font_color">#9a9a9a</color>
+    <color name="bg_item_normal_color">#ffffff</color>
+    <color name="bg_item_press_color">#e3e3e3</color>
+    <color name="bg_btn_normal_color">#419DE4</color>
+    <color name="bg_btn_press_color">#293ab4</color>
+    <color name="bg_btn_normal_color_hui">#d2d2d2</color>
+    <color name="bg_btn_press_color_hui">#c1c1c1</color>
+    <!-- 描边颜色 -->
+    <color name="border_clo">#ccc</color>
+    <color name="text_clo">#333</color>
+    <!--<color name="white">#ffffff</color>-->
+    <color name="blue">#419DE4</color>
+    <color name="bg_addpending_title">#F5F5F5</color>
+    <color name="text_show_red">#FF0000</color>
+    <color name="text_show_blue">#419DE4</color>
+
+
+
+
+
+</resources>
