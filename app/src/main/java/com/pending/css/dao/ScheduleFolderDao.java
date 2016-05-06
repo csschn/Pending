@@ -12,8 +12,6 @@ import cn.bmob.v3.listener.DeleteListener;
  * Created by Administrator on 2016/4/23.
  */
 public class ScheduleFolderDao {
-
-
     /**
      *接收Context和scheduleFolderId用来删除数据库中的数据
      *@auther css

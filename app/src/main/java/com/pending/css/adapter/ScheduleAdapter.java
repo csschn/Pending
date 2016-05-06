@@ -7,13 +7,12 @@ import android.view.View;
 import android.widget.CheckBox;
 
 import com.pending.css.bean.Schedule;
+import com.pending.css.dao.ScheduleDao;
 import com.pending.css.login.R;
 import com.pending.css.util.CommonAdapter;
 import com.pending.css.util.ViewHolder;
 
 import java.util.List;
-
-import com.pending.css.dao.ScheduleDao;
 
 /**
  * Created by Administrator on 2016/4/18.
