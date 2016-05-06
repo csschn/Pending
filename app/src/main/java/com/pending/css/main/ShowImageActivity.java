@@ -1,4 +1,4 @@
-package com.pending.css.index;
+package com.pending.css.main;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

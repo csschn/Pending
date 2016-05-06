@@ -1,4 +1,4 @@
-package com.pending.css.index;
+package com.pending.css.main;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -60,7 +60,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import bean.dao.ScheduleFolderDao;
+import com.pending.css.dao.ScheduleFolderDao;
 import cn.bmob.v3.Bmob;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.BmobUser;

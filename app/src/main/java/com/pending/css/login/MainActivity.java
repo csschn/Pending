@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.pending.css.index.Main2Activity;
+import com.pending.css.main.Main2Activity;
 
 import com.pending.css.bean.User;
 import butterknife.Bind;

@@ -1,4 +1,4 @@
-package bean.dao;
+package com.pending.css.dao;
 
 import android.content.Context;
 import android.util.Log;

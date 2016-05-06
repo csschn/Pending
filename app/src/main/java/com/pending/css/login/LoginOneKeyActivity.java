@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.pending.css.bean.User;
-import com.pending.css.index.Main2Activity;
+import com.pending.css.main.Main2Activity;
 import com.pending.css.util.BaseActivity;
 
 import butterknife.Bind;

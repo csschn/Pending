@@ -13,7 +13,7 @@ import com.pending.css.util.ViewHolder;
 
 import java.util.List;
 
-import bean.dao.ScheduleDao;
+import com.pending.css.dao.ScheduleDao;
 
 /**
  * Created by Administrator on 2016/4/18.

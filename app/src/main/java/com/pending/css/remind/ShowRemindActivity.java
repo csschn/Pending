@@ -20,7 +20,7 @@ import com.pending.css.util.ActivityCollector;
 import com.pending.css.util.BaseActivity;
 import com.pending.css.util.MyApplication;
 
-import bean.dao.ScheduleDao;
+import com.pending.css.dao.ScheduleDao;
 
 /**
  * Created by Administrator on 2016/4/24.

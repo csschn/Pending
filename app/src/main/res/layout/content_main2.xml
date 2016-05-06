@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.pending.css.index.Main2Activity"
+    tools:context="com.pending.css.main.Main2Activity"
     tools:showIn="@layout/app_bar_main2"
     android:background="#E5E5E5"
 >

@@ -1,4 +1,4 @@
-package com.pending.css.index;
+package com.pending.css.main;
 
 
 import android.app.AlertDialog;
@@ -28,12 +28,14 @@ import android.widget.Toast;
 
 import com.github.jjobes.slidedatetimepicker.SlideDateTimeListener;
 import com.github.jjobes.slidedatetimepicker.SlideDateTimePicker;
+import com.nostra13.universalimageloader.core.DisplayImageOptions;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
 import com.pending.css.bean.Schedule;
 import com.pending.css.bean.User;
 import com.pending.css.config.Constants;
 import com.pending.css.login.R;
 import com.pending.css.remind.InitAlarmService;
-import com.pending.css.util.ImageLoadHelper;
 import com.pending.css.util.T;
 
 import java.io.File;
@@ -239,8 +241,18 @@ public class AddPendingActivity extends FragmentActivity implements View.OnClick
                                     btn_take_photo.setText("修改照片");
                                     String path = Environment.getExternalStorageDirectory()+"/Pending";
                                     String pictureName = "photo.jpeg";
-                                    ImageLoadHelper imageLoadHelper = new ImageLoadHelper(user_photo_accessory,path,"photos",pictureName);
-                                    imageLoadHelper.downloadFromNetToLocal(list.get(i).getPicture_url());
+                                    DisplayImageOptions options = new DisplayImageOptions.Builder()
+                                            .showImageOnLoading(R.mipmap.loading)
+                                            .showImageOnFail(R.mipmap.error)
+                                            .cacheInMemory(true)
+                                            .cacheOnDisk(true)
+                                            .bitmapConfig(Bitmap.Config.RGB_565)
+                                            .build();
+                                    ImageLoader.getInstance().displayImage(list.get(i).getPicture_url()
+                                            ,user_photo_accessory
+                                            ,new SimpleImageLoadingListener());
+//                                    ImageLoadHelper imageLoadHelper = new ImageLoadHelper(user_photo_accessory,path,"photos",pictureName);
+//                                    imageLoadHelper.downloadFromNetToLocal(list.get(i).getPicture_url());
                                 }
                             }
                         } else {

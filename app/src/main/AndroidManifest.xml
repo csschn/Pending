@@ -50,13 +50,13 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".ResetPasswordActivity" />
         <activity
-            android:name="com.pending.css.index.Main2Activity"
+            android:name="com.pending.css.main.Main2Activity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.pending.css.index.UserInfoActivity" />
+        <activity android:name="com.pending.css.main.UserInfoActivity" />
         <activity
-            android:name="com.pending.css.index.ChangeUserInfo"
+            android:name="com.pending.css.main.ChangeUserInfo"
             android:theme="@android:style/Theme.Dialog" />
-        <activity android:name="com.pending.css.index.AddPendingActivity"
+        <activity android:name="com.pending.css.main.AddPendingActivity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <receiver android:name="com.pending.css.remind.AlarmReceiver"
             android:process=":remote"></receiver>
@@ -70,7 +70,7 @@
                 <action android:name="android.css.alarmplayer.finished"></action>
             </intent-filter>
         </receiver>
-        <activity android:name="com.pending.css.index.ShowImageActivity"></activity>
+        <activity android:name="com.pending.css.main.ShowImageActivity"></activity>
 
         <receiver android:name="com.pending.css.remind.BoomComplereReceiver">
             <intent-filter>
