@@ -9,7 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0966426e-1cc6-4ce3-91bb-6bb8e30374dd" name="Default" comment="" />
+    <list default="true" id="053b28ff-8251-493b-b82c-da938ab49949" name="Default" comment="" />
     <ignored path="Pending.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,91 +36,195 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="line_pressed.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/line_pressed.png">
-          <provider selected="true" editor-type-id="images">
+      <file leaf-file-name="AddPendingActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/AddPendingActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
+              <folding>
+                <element signature="docComment;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#onCreate#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#initRecord#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#downloadFile#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="class#5716:6119" expanded="false" />
+                <element signature="method#onStart#0;class#5716:6119" expanded="false" />
+                <element signature="method#onSuccess#0;class#5716:6119" expanded="false" />
+                <element signature="method#onProgress#0;class#5716:6119" expanded="false" />
+                <element signature="method#onFailure#0;class#5716:6119" expanded="false" />
+                <element signature="method#downloadRecord#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#initData#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="e#9906#10046#0" expanded="false" />
+                <element signature="method#editPending#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="class#14016:14566" expanded="false" />
+                <element signature="method#onSuccess#0;class#14016:14566" expanded="false" />
+                <element signature="method#onFailure#0;class#14016:14566" expanded="false" />
+                <element signature="docComment;method#addPending#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#addPending#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="class#15735:16318" expanded="false" />
+                <element signature="method#onSuccess#0;class#15735:16318" expanded="false" />
+                <element signature="method#onClick#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="e#19065#19119#0" expanded="false" />
+                <element signature="e#19222#19288#0" expanded="false" />
+                <element signature="class#20667:20866" expanded="false" />
+                <element signature="method#onClick#0;class#20667:20866" expanded="false" />
+                <element signature="e#21194#21262#0" expanded="false" />
+                <element signature="e#23709#23790#0" expanded="false" />
+                <element signature="class#24079:26213" expanded="false" />
+                <element signature="method#onDateTimeSet#0;class#24079:26213" expanded="false" />
+                <element signature="docComment;method#initView#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#initView#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#onTouch#0;class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#uploadRecord#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="class#28620:29106" expanded="false" />
+                <element signature="method#onSuccess#0;class#28620:29106" expanded="false" />
+                <element signature="method#onFailure#0;class#28620:29106" expanded="false" />
+                <element signature="method#avaterEvent#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="class#29561:29696" expanded="false" />
+                <element signature="method#onClick#0;class#29561:29696" expanded="false" />
+                <element signature="method#getFile#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#doHandlerPhoto#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#getCropImageIntent#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#setIntentParams#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="e#31955#31973#0" expanded="false" />
+                <element signature="method#onActivityResult#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="docComment;method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="method#uploadPhoto#0;class#AddPendingActivity#0" expanded="false" />
+                <element signature="class#33815:34298" expanded="false" />
+                <element signature="method#onSuccess#0;class#33815:34298" expanded="false" />
+                <element signature="method#onFailure#0;class#33815:34298" expanded="false" />
+                <element signature="method#decodeUriAsBitmap#0;class#AddPendingActivity#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserInfoActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/UserInfoActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0333333">
+              <caret line="493" column="48" selection-start-line="493" selection-start-column="48" selection-end-line="493" selection-end-column="48" />
+              <folding>
+                <element signature="docComment;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#onResume#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#initView#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#initView#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#onClick#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#initData#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#initData#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="class#7394:7529" expanded="false" />
+                <element signature="method#onClick#0;class#7394:7529" expanded="false" />
+                <element signature="e#7853#8066#0" expanded="true" />
+                <element signature="e#8065#8066#0" expanded="true" />
+                <element signature="docComment;method#nickDialog#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#onFailure#0;class#9465:10142" expanded="false" />
+                <element signature="docComment;method#emailDialog#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#onFailure#0;class#11570:11933" expanded="false" />
+                <element signature="docComment;method#onBackPressed#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="docComment;method#uploadAvater#0;class#UserInfoActivity#0" expanded="false" />
+                <element signature="class#17431:18051" expanded="false" />
+                <element signature="method#onSuccess#0;class#17431:18051" expanded="false" />
+                <element signature="method#onFailure#0;class#17431:18051" expanded="false" />
+                <element signature="method#onFailure#0;class#16578:18368" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main2Activity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="980" column="41" selection-start-line="980" selection-start-column="41" selection-end-line="980" selection-end-column="41" />
+              <folding>
+                <element signature="docComment;class#Main2Activity#0" expanded="false" />
+                <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
+                <element signature="e#15411#15447#0" expanded="false" />
+                <element signature="e#15935#16025#0" expanded="false" />
+                <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
+                <element signature="e#17000#17068#0" expanded="false" />
+                <element signature="e#17703#17752#0" expanded="false" />
+                <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
+                <element signature="e#19629#19638#0" expanded="false" />
+                <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+                <element signature="e#30631#30674#0" expanded="false" />
+                <element signature="e#30631#30674#0" expanded="false" />
+                <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+                <element signature="class#33580:34565" expanded="false" />
+                <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
+                <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
+                <element signature="class#34972:35155" expanded="false" />
+                <element signature="method#onClick#0;class#34972:35155" expanded="false" />
+                <element signature="class#37100:37779" expanded="false" />
+                <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
+                <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
+                <element signature="class#38516:38699" expanded="false" />
+                <element signature="method#onClick#0;class#38516:38699" expanded="false" />
+                <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
+                <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_change_userinfo.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_change_userinfo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25671643">
+              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mid_layout_selector.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/mid_layout_selector.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="people_bg_default.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/people_bg_default.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setting_arrow.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/setting_arrow.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="side_nav_bar.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single_layout_selector.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/single_layout_selector.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="userinfo_picture_bg.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/userinfo_picture_bg.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slideDateTimePicker/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inuptodown.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/inuptodown.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="outdowntoup.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/outdowntoup.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.504298">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -2017,7 +2121,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:\00Android\00AndroidStudio\Pending" value="5850081589965" />
+        <entry key="C:\Users\Administrator\Desktop\Pending" value="5850244317858" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2233,13 +2337,13 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/24.0.0-alpha1/appcompat-v7-24.0.0-alpha1.aar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/design/24.0.0-alpha1/design-24.0.0-alpha1.aar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha1/support-v4-24.0.0-alpha1.aar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/support-vector-drawable/24.0.0-alpha1/support-vector-drawable-24.0.0-alpha1.aar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/24.0.0-alpha1/animated-vector-drawable-24.0.0-alpha1.aar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/recyclerview-v7/24.0.0-alpha1/recyclerview-v7-24.0.0-alpha1.aar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/24.0.0-alpha1/appcompat-v7-24.0.0-alpha1.aar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/design/24.0.0-alpha1/design-24.0.0-alpha1.aar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha1/support-v4-24.0.0-alpha1.aar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-vector-drawable/24.0.0-alpha1/support-vector-drawable-24.0.0-alpha1.aar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/24.0.0-alpha1/animated-vector-drawable-24.0.0-alpha1.aar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/recyclerview-v7/24.0.0-alpha1/recyclerview-v7-24.0.0-alpha1.aar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar" />
                             <option value="$MODULE_DIR$/libs/BmobSDK_V3.4.6_0415.jar" />
                             <option value="$MODULE_DIR$/libs/BmobSMS_V1.0.1_20150710.jar" />
                             <option value="$MODULE_DIR$/libs/butterknife-7.0.1.jar" />
@@ -2352,8 +2456,8 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
-                            <option value="$PROJECT_DIR$/../../03android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
+                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/slideDateTimePicker" />
@@ -2494,9 +2598,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/AddPendingActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/util/MyApplication.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/dao/ScheduleFolderDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/UserInfoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_change_userinfo.xml" />
       </list>
     </option>
   </component>
@@ -2532,61 +2636,10 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2601,16 +2654,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slideDateTimePicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
@@ -2633,7 +2676,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="anim" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2678,34 +2721,16 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="android.project.structure.last.selected" value="app" />
-    <property name="android.project.structure.proportion" value="0.15" />
-    <property name="android.sdk.path" value="$PROJECT_DIR$/../../03android-sdk" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/libs/universal-image-loader-1.9.5.jar" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.pending.css.util" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\00Android\00AndroidStudio\Pending\app\src\main\res\mipmap-xhdpi" />
-      <recent name="D:\00Android\00AndroidStudio\Pending\app\libs" />
-    </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2727,26 +2752,6 @@
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2787,11 +2792,6 @@
         <option name="Make" enabled="false" />
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -2869,10 +2869,10 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0966426e-1cc6-4ce3-91bb-6bb8e30374dd" name="Default" comment="" />
-      <created>1462520494008</created>
+      <changelist id="053b28ff-8251-493b-b82c-da938ab49949" name="Default" comment="" />
+      <created>1462596126026</created>
       <option name="number" value="Default" />
-      <updated>1462520494008</updated>
+      <updated>1462596126026</updated>
     </task>
     <servers />
   </component>
@@ -2882,12 +2882,11 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3560477" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -2906,42 +2905,12 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2951,334 +2920,188 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_more_horiz_white_24dp.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_search_white_24dp.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/loading.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/loop_picture.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/priority.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/priority_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/priority_1_normal.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/priority_pressed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/s_folder_list.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/search_24.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/spilt_line.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/spilt_line_vertical.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_layout_shape.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/AddPendingActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#initRecord#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#downloadFile#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="class#5716:6119" expanded="false" />
+            <element signature="method#onStart#0;class#5716:6119" expanded="false" />
+            <element signature="method#onSuccess#0;class#5716:6119" expanded="false" />
+            <element signature="method#onProgress#0;class#5716:6119" expanded="false" />
+            <element signature="method#onFailure#0;class#5716:6119" expanded="false" />
+            <element signature="method#downloadRecord#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#initData#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="e#9906#10046#0" expanded="false" />
+            <element signature="method#editPending#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="class#14016:14566" expanded="false" />
+            <element signature="method#onSuccess#0;class#14016:14566" expanded="false" />
+            <element signature="method#onFailure#0;class#14016:14566" expanded="false" />
+            <element signature="docComment;method#addPending#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#addPending#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="class#15735:16318" expanded="false" />
+            <element signature="method#onSuccess#0;class#15735:16318" expanded="false" />
+            <element signature="method#onClick#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="e#19065#19119#0" expanded="false" />
+            <element signature="e#19222#19288#0" expanded="false" />
+            <element signature="class#20667:20866" expanded="false" />
+            <element signature="method#onClick#0;class#20667:20866" expanded="false" />
+            <element signature="e#21194#21262#0" expanded="false" />
+            <element signature="e#23709#23790#0" expanded="false" />
+            <element signature="class#24079:26213" expanded="false" />
+            <element signature="method#onDateTimeSet#0;class#24079:26213" expanded="false" />
+            <element signature="docComment;method#initView#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#initView#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#onTouch#0;class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#uploadRecord#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="class#28620:29106" expanded="false" />
+            <element signature="method#onSuccess#0;class#28620:29106" expanded="false" />
+            <element signature="method#onFailure#0;class#28620:29106" expanded="false" />
+            <element signature="method#avaterEvent#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="class#29561:29696" expanded="false" />
+            <element signature="method#onClick#0;class#29561:29696" expanded="false" />
+            <element signature="method#getFile#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#doHandlerPhoto#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#getCropImageIntent#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#setIntentParams#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="e#31955#31973#0" expanded="false" />
+            <element signature="method#onActivityResult#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="docComment;method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="method#uploadPhoto#0;class#AddPendingActivity#0" expanded="false" />
+            <element signature="class#33815:34298" expanded="false" />
+            <element signature="method#onSuccess#0;class#33815:34298" expanded="false" />
+            <element signature="method#onFailure#0;class#33815:34298" expanded="false" />
+            <element signature="method#decodeUriAsBitmap#0;class#AddPendingActivity#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/UserInfoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.75">
-          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-          <folding />
+        <state vertical-scroll-proportion="-5.0333333">
+          <caret line="493" column="48" selection-start-line="493" selection-start-column="48" selection-end-line="493" selection-end-column="48" />
+          <folding>
+            <element signature="docComment;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#onResume#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#initView#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#initView#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#onClick#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#initData#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#initData#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="class#7394:7529" expanded="false" />
+            <element signature="method#onClick#0;class#7394:7529" expanded="false" />
+            <element signature="e#7853#8066#0" expanded="true" />
+            <element signature="e#8065#8066#0" expanded="true" />
+            <element signature="docComment;method#nickDialog#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#onFailure#0;class#9465:10142" expanded="false" />
+            <element signature="docComment;method#emailDialog#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#onFailure#0;class#11570:11933" expanded="false" />
+            <element signature="docComment;method#onBackPressed#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="docComment;method#uploadAvater#0;class#UserInfoActivity#0" expanded="false" />
+            <element signature="class#17431:18051" expanded="false" />
+            <element signature="method#onSuccess#0;class#17431:18051" expanded="false" />
+            <element signature="method#onFailure#0;class#17431:18051" expanded="false" />
+            <element signature="method#onFailure#0;class#16578:18368" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/checkbox_for_addpending_0.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/checkbox_for_addpending_1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_border_color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_normal_color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_normal_color_1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_normal_color_hui.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_press_color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_press_color_1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_press_color_hui.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_press_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_press_selector_1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_btn_press_selector_hui.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="980" column="41" selection-start-line="980" selection-start-column="41" selection-end-line="980" selection-end-column="41" />
+          <folding>
+            <element signature="docComment;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#15411#15447#0" expanded="false" />
+            <element signature="e#15935#16025#0" expanded="false" />
+            <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#17000#17068#0" expanded="false" />
+            <element signature="e#17703#17752#0" expanded="false" />
+            <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#19629#19638#0" expanded="false" />
+            <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#30631#30674#0" expanded="false" />
+            <element signature="e#30631#30674#0" expanded="false" />
+            <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="class#33580:34565" expanded="false" />
+            <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
+            <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
+            <element signature="class#34972:35155" expanded="false" />
+            <element signature="method#onClick#0;class#34972:35155" expanded="false" />
+            <element signature="class#37100:37779" expanded="false" />
+            <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
+            <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
+            <element signature="class#38516:38699" expanded="false" />
+            <element signature="method#onClick#0;class#38516:38699" expanded="false" />
+            <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bitmap_error.png">
-      <provider selected="true" editor-type-id="images">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_change_userinfo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25671643">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bitmap_normal.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bitmap_pressed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bottom_select.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bottom_layout_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v21/dialog_divider_horizontal_light.9.png">
-      <provider editor-type-id="images">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/editsharp.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_add_event.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_left.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_right.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/line_error.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/line_pressed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/mid_layout_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/people_bg_default.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/setting_arrow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/single_layout_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/userinfo_picture_bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slideDateTimePicker/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/inuptodown.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/outdowntoup.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.504298">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
