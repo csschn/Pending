@@ -36,51 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Schedule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/Schedule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="64" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScheduleFolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/ScheduleFolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChangeUserInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/ChangeUserInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main2Activity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="623" column="24" selection-start-line="623" selection-start-column="24" selection-end-line="623" selection-end-column="24" />
+              <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
               <folding>
                 <element signature="docComment;class#Main2Activity#0" expanded="false" />
                 <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
@@ -101,7 +61,6 @@
                 <element signature="e#15411#15447#0" expanded="false" />
                 <element signature="e#15935#16025#0" expanded="false" />
                 <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
                 <element signature="e#17000#17068#0" expanded="false" />
                 <element signature="e#17703#17752#0" expanded="false" />
                 <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
@@ -111,11 +70,14 @@
                 <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
                 <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
                 <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+                <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
                 <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
                 <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
                 <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
                 <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
                 <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+                <element signature="e#30631#30674#0" expanded="false" />
                 <element signature="e#30631#30674#0" expanded="false" />
                 <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
                 <element signature="class#33580:34565" expanded="false" />
@@ -140,31 +102,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ActivityCollector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/util/ActivityCollector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoomComplereReceiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/BoomComplereReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlarmReceiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlarmFinishedReceiver.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmFinishedReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6164383">
+              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ic_launcher.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -2541,8 +2551,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/ChangeUserInfo.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmFinishedReceiver.java" />
       </list>
     </option>
   </component>
@@ -2609,10 +2621,6 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2626,6 +2634,64 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pending" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pending" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="remind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pending" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2651,6 +2717,12 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.126.101:5555" />
     <property name="FullScreen" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\01android\04workspace\android studio\Pending\app\src\main\res\drawable" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2833,16 +2905,16 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26791808" sideWeight="0.49092284" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20307167" sideWeight="0.49092284" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26791808" sideWeight="0.50907713" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49146757" sideWeight="0.50907713" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2903,7 +2975,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2931,7 +3005,6 @@
             <element signature="e#15411#15447#0" expanded="false" />
             <element signature="e#15935#16025#0" expanded="false" />
             <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
             <element signature="e#17000#17068#0" expanded="false" />
             <element signature="e#17703#17752#0" expanded="false" />
             <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
@@ -2941,11 +3014,14 @@
             <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
             <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
             <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
             <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#30631#30674#0" expanded="false" />
             <element signature="e#30631#30674#0" expanded="false" />
             <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
             <element signature="class#33580:34565" expanded="false" />
@@ -3013,7 +3089,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3041,7 +3119,6 @@
             <element signature="e#15411#15447#0" expanded="false" />
             <element signature="e#15935#16025#0" expanded="false" />
             <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
             <element signature="e#17000#17068#0" expanded="false" />
             <element signature="e#17703#17752#0" expanded="false" />
             <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
@@ -3051,11 +3128,14 @@
             <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
             <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
             <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
             <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
             <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#30631#30674#0" expanded="false" />
             <element signature="e#30631#30674#0" expanded="false" />
             <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
             <element signature="class#33580:34565" expanded="false" />
@@ -3091,7 +3171,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3116,68 +3198,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="623" column="24" selection-start-line="623" selection-start-column="24" selection-end-line="623" selection-end-column="24" />
-          <folding>
-            <element signature="docComment;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#15411#15447#0" expanded="false" />
-            <element signature="e#15935#16025#0" expanded="false" />
-            <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#17000#17068#0" expanded="false" />
-            <element signature="e#17703#17752#0" expanded="false" />
-            <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#19629#19638#0" expanded="false" />
-            <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="class#33580:34565" expanded="false" />
-            <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
-            <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
-            <element signature="class#34972:35155" expanded="false" />
-            <element signature="method#onClick#0;class#34972:35155" expanded="false" />
-            <element signature="class#37100:37779" expanded="false" />
-            <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
-            <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
-            <element signature="class#38516:38699" expanded="false" />
-            <element signature="method#onClick#0;class#38516:38699" expanded="false" />
-            <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3199,8 +3219,124 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+          <folding>
+            <element signature="docComment;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#15411#15447#0" expanded="false" />
+            <element signature="e#15935#16025#0" expanded="false" />
+            <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#17000#17068#0" expanded="false" />
+            <element signature="e#17703#17752#0" expanded="false" />
+            <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initData#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#19629#19638#0" expanded="false" />
+            <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="e#30631#30674#0" expanded="false" />
+            <element signature="e#30631#30674#0" expanded="false" />
+            <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
+            <element signature="class#33580:34565" expanded="false" />
+            <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
+            <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
+            <element signature="class#34972:35155" expanded="false" />
+            <element signature="method#onClick#0;class#34972:35155" expanded="false" />
+            <element signature="class#37100:37779" expanded="false" />
+            <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
+            <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
+            <element signature="class#38516:38699" expanded="false" />
+            <element signature="method#onClick#0;class#38516:38699" expanded="false" />
+            <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
+            <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
+            <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/util/ActivityCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/BoomComplereReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmFinishedReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6164383">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
           <folding />
         </state>
       </provider>

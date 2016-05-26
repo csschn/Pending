@@ -24,7 +24,6 @@ public class AlarmReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         Schedule schedule = (Schedule) intent.getSerializableExtra("schedule_data");
         Log.d("qqq", "onreceive" + schedule.getContent());
-        T.showDefind(context, "receiver is ");
         wakeAndUnlock(true);
         Intent intent1 = new Intent(context,ShowRemindActivity.class);
         intent1.putExtra("schedule_data",schedule);

@@ -6,6 +6,8 @@ import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.os.Build;
 
 import com.pending.css.bean.Schedule;
@@ -36,11 +38,11 @@ public class AlarmFinishedReceiver extends BroadcastReceiver {
         contentShow = schedule.getContent();
         manager = (NotificationManager) mContext.getSystemService(Context.NOTIFICATION_SERVICE);
         notificationId = schedule.getRemind_time_id();
-        sendNotification();
+        sendNotification(context);
         ActivityCollector.finishAll();
     }
 
-    private void sendNotification()
+    private void sendNotification(Context context)
     {
         intent1 = new Intent(mContext,ShowRemindActivity.class);//启动Activity的Intent
         //一定要这么加入个标记，不然被打开的Activity获取不到数据
@@ -49,10 +51,12 @@ public class AlarmFinishedReceiver extends BroadcastReceiver {
         intent1.putExtra("source","notification");//标示来自于广播启动
         PendingIntent pintent = PendingIntent.getActivity(mContext,schedule.getRemind_time_id(),intent1,PendingIntent.FLAG_UPDATE_CURRENT);
         Notification.Builder builder = new Notification.Builder(mContext);
-        builder.setSmallIcon(R.mipmap.ic_launcher);
+        builder.setSmallIcon(R.drawable.iconlarge);
         builder.setTicker(tickerShow);//手机状态栏的提示
         builder.setWhen(System.currentTimeMillis());//设置时间
         builder.setContentTitle(titleShow);
+        Bitmap LargeBitmap = BitmapFactory.decodeResource(context.getResources(), R.drawable.iconlarge);
+        builder.setLargeIcon(LargeBitmap);
         builder.setContentText(contentShow);
         builder.setContentIntent(pintent);//点击之后的意图
         builder.setDefaults(Notification.DEFAULT_ALL);//设置上面的三种效果
