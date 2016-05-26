@@ -53,9 +53,7 @@
             android:name="com.pending.css.main.Main2Activity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.pending.css.main.UserInfoActivity" />
-        <activity
-            android:name="com.pending.css.main.ChangeUserInfo"
-            android:theme="@android:style/Theme.Dialog" />
+
         <activity android:name="com.pending.css.main.AddPendingActivity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <receiver android:name="com.pending.css.remind.AlarmReceiver"

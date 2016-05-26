@@ -972,6 +972,20 @@ public class Main2Activity  extends     AppCompatActivity
                     if (userInfoIsChangeed.equals("Y"))
                     {
                         initDataFromLocal();
+                        user = BmobUser.getCurrentUser(this,User.class);
+                        //设置昵称和邮件信息
+                        if (user.getNickName() != null )
+                        {
+                            nickShowLeft.setText(user.getNickName().toString());
+                        }
+                        if (user.getEmail() != null && user.getEmailVerified()==true)
+                        {
+                            emailShowLeft.setText(user.getEmail().toString());
+                        }
+                        else
+                        {
+                            emailShowLeft.setText("邮箱未验证！");
+                        }
                     }
                 }
                 break;
