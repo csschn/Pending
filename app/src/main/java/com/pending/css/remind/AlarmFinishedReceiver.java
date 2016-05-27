@@ -51,7 +51,7 @@ public class AlarmFinishedReceiver extends BroadcastReceiver {
         intent1.putExtra("source","notification");//标示来自于广播启动
         PendingIntent pintent = PendingIntent.getActivity(mContext,schedule.getRemind_time_id(),intent1,PendingIntent.FLAG_UPDATE_CURRENT);
         Notification.Builder builder = new Notification.Builder(mContext);
-        builder.setSmallIcon(R.drawable.iconlarge);
+        builder.setSmallIcon(R.drawable.iconsmall);
         builder.setTicker(tickerShow);//手机状态栏的提示
         builder.setWhen(System.currentTimeMillis());//设置时间
         builder.setContentTitle(titleShow);

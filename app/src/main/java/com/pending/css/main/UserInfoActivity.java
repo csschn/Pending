@@ -486,6 +486,7 @@ public class UserInfoActivity extends BaseActivity {
             @Override
             public void onSuccess() {
                 user.setPictureUrl( bmobFile.getUrl().toString());
+                Toast.makeText(UserInfoActivity.this, "设置成功！", Toast.LENGTH_SHORT).show();
                 user.update(UserInfoActivity.this, user.getObjectId(), new UpdateListener() {
                     @Override
                     public void onSuccess() {
