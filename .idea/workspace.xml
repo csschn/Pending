@@ -9,11 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="4bf53e5b-e29b-457c-8e67-61139f565d3c" name="Default" comment="" />
-=======
-    <list default="true" id="053b28ff-8251-493b-b82c-da938ab49949" name="Default" comment="" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
+    <list default="true" id="057aa888-d9e3-4cbd-8099-1045f78210df" name="Default" comment="" />
     <ignored path="Pending.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,348 +24,34 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Pending" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-<<<<<<< HEAD
-      <file leaf-file-name="Main2Activity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
-              <folding>
-                <element signature="docComment;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#15411#15447#0" expanded="false" />
-                <element signature="e#15935#16025#0" expanded="false" />
-                <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#17000#17068#0" expanded="false" />
-                <element signature="e#17703#17752#0" expanded="false" />
-                <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initData#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#19629#19638#0" expanded="false" />
-                <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#30631#30674#0" expanded="false" />
-                <element signature="e#30631#30674#0" expanded="false" />
-                <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="class#33580:34565" expanded="false" />
-                <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
-                <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
-                <element signature="class#34972:35155" expanded="false" />
-                <element signature="method#onClick#0;class#34972:35155" expanded="false" />
-                <element signature="class#37100:37779" expanded="false" />
-                <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
-                <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
-                <element signature="class#38516:38699" expanded="false" />
-                <element signature="method#onClick#0;class#38516:38699" expanded="false" />
-                <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ActivityCollector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/util/ActivityCollector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-=======
-      <file leaf-file-name="AddPendingActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/AddPendingActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
-              <folding>
-                <element signature="docComment;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#onCreate#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#initRecord#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#downloadFile#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="class#5716:6119" expanded="false" />
-                <element signature="method#onStart#0;class#5716:6119" expanded="false" />
-                <element signature="method#onSuccess#0;class#5716:6119" expanded="false" />
-                <element signature="method#onProgress#0;class#5716:6119" expanded="false" />
-                <element signature="method#onFailure#0;class#5716:6119" expanded="false" />
-                <element signature="method#downloadRecord#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#initData#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="e#9906#10046#0" expanded="false" />
-                <element signature="method#editPending#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="class#14016:14566" expanded="false" />
-                <element signature="method#onSuccess#0;class#14016:14566" expanded="false" />
-                <element signature="method#onFailure#0;class#14016:14566" expanded="false" />
-                <element signature="docComment;method#addPending#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#addPending#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="class#15735:16318" expanded="false" />
-                <element signature="method#onSuccess#0;class#15735:16318" expanded="false" />
-                <element signature="method#onClick#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="e#19065#19119#0" expanded="false" />
-                <element signature="e#19222#19288#0" expanded="false" />
-                <element signature="class#20667:20866" expanded="false" />
-                <element signature="method#onClick#0;class#20667:20866" expanded="false" />
-                <element signature="e#21194#21262#0" expanded="false" />
-                <element signature="e#23709#23790#0" expanded="false" />
-                <element signature="class#24079:26213" expanded="false" />
-                <element signature="method#onDateTimeSet#0;class#24079:26213" expanded="false" />
-                <element signature="docComment;method#initView#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#initView#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#onTouch#0;class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#uploadRecord#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="class#28620:29106" expanded="false" />
-                <element signature="method#onSuccess#0;class#28620:29106" expanded="false" />
-                <element signature="method#onFailure#0;class#28620:29106" expanded="false" />
-                <element signature="method#avaterEvent#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="class#29561:29696" expanded="false" />
-                <element signature="method#onClick#0;class#29561:29696" expanded="false" />
-                <element signature="method#getFile#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#doHandlerPhoto#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#getCropImageIntent#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#setIntentParams#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="e#31955#31973#0" expanded="false" />
-                <element signature="method#onActivityResult#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="docComment;method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="method#uploadPhoto#0;class#AddPendingActivity#0" expanded="false" />
-                <element signature="class#33815:34298" expanded="false" />
-                <element signature="method#onSuccess#0;class#33815:34298" expanded="false" />
-                <element signature="method#onFailure#0;class#33815:34298" expanded="false" />
-                <element signature="method#decodeUriAsBitmap#0;class#AddPendingActivity#0" expanded="false" />
-              </folding>
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="BoomComplereReceiver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/BoomComplereReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlarmReceiver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-              <folding />
-=======
-      <file leaf-file-name="UserInfoActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/UserInfoActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0333333">
-              <caret line="493" column="48" selection-start-line="493" selection-start-column="48" selection-end-line="493" selection-end-column="48" />
-              <folding>
-                <element signature="docComment;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#onResume#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#initView#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#initView#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#onClick#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#initData#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#initData#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="class#7394:7529" expanded="false" />
-                <element signature="method#onClick#0;class#7394:7529" expanded="false" />
-                <element signature="e#7853#8066#0" expanded="true" />
-                <element signature="e#8065#8066#0" expanded="true" />
-                <element signature="docComment;method#nickDialog#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#onFailure#0;class#9465:10142" expanded="false" />
-                <element signature="docComment;method#emailDialog#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#onFailure#0;class#11570:11933" expanded="false" />
-                <element signature="docComment;method#onBackPressed#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="docComment;method#uploadAvater#0;class#UserInfoActivity#0" expanded="false" />
-                <element signature="class#17431:18051" expanded="false" />
-                <element signature="method#onSuccess#0;class#17431:18051" expanded="false" />
-                <element signature="method#onFailure#0;class#17431:18051" expanded="false" />
-                <element signature="method#onFailure#0;class#16578:18368" expanded="false" />
-              </folding>
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="AlarmFinishedReceiver.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmFinishedReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6164383">
-              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
-              <folding />
-=======
-      <file leaf-file-name="Main2Activity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="980" column="41" selection-start-line="980" selection-start-column="41" selection-end-line="980" selection-end-column="41" />
-              <folding>
-                <element signature="docComment;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#15411#15447#0" expanded="false" />
-                <element signature="e#15935#16025#0" expanded="false" />
-                <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#17000#17068#0" expanded="false" />
-                <element signature="e#17703#17752#0" expanded="false" />
-                <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#19629#19638#0" expanded="false" />
-                <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="e#30631#30674#0" expanded="false" />
-                <element signature="e#30631#30674#0" expanded="false" />
-                <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-                <element signature="class#33580:34565" expanded="false" />
-                <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
-                <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
-                <element signature="class#34972:35155" expanded="false" />
-                <element signature="method#onClick#0;class#34972:35155" expanded="false" />
-                <element signature="class#37100:37779" expanded="false" />
-                <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
-                <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
-                <element signature="class#38516:38699" expanded="false" />
-                <element signature="method#onClick#0;class#38516:38699" expanded="false" />
-                <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
-                <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
-                <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
-              </folding>
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="ic_launcher.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-          <provider selected="true" editor-type-id="images">
+      <file leaf-file-name="activity_add_pending.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_pending.xml">
+          <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon_1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
+          <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-              <folding />
-            </state>
-=======
-      <file leaf-file-name="activity_change_userinfo.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_change_userinfo.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25671643">
-              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dialog_schedule_folder.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_schedule_folder.xml">
           <provider editor-type-id="android-designer">
             <state />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8327759">
+              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -2266,11 +1948,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-<<<<<<< HEAD
-        <entry key="D:\01android\04workspace\android studio\Pending" value="5850081594000" />
-=======
-        <entry key="C:\Users\Administrator\Desktop\Pending" value="5850244317858" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
+        <entry key="$PROJECT_DIR$" value="5853782325008" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2486,7 +2164,6 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-<<<<<<< HEAD
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/24.0.0-alpha1/appcompat-v7-24.0.0-alpha1.aar" />
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/design/24.0.0-alpha1/design-24.0.0-alpha1.aar" />
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha1/support-v4-24.0.0-alpha1.aar" />
@@ -2494,15 +2171,6 @@
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/24.0.0-alpha1/animated-vector-drawable-24.0.0-alpha1.aar" />
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/recyclerview-v7/24.0.0-alpha1/recyclerview-v7-24.0.0-alpha1.aar" />
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar" />
-=======
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/24.0.0-alpha1/appcompat-v7-24.0.0-alpha1.aar" />
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/design/24.0.0-alpha1/design-24.0.0-alpha1.aar" />
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha1/support-v4-24.0.0-alpha1.aar" />
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-vector-drawable/24.0.0-alpha1/support-vector-drawable-24.0.0-alpha1.aar" />
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/24.0.0-alpha1/animated-vector-drawable-24.0.0-alpha1.aar" />
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/recyclerview-v7/24.0.0-alpha1/recyclerview-v7-24.0.0-alpha1.aar" />
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
                             <option value="$MODULE_DIR$/libs/BmobSDK_V3.4.6_0415.jar" />
                             <option value="$MODULE_DIR$/libs/BmobSMS_V1.0.1_20150710.jar" />
                             <option value="$MODULE_DIR$/libs/butterknife-7.0.1.jar" />
@@ -2615,13 +2283,8 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-<<<<<<< HEAD
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
                             <option value="$PROJECT_DIR$/../../../03android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar" />
-=======
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
-                            <option value="D:/03android/03android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/slideDateTimePicker" />
@@ -2633,119 +2296,119 @@
               <option name="name" value="slideDateTimePicker" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/announce" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/antlr" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/base-services" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/base-services-groovy" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/build-comparison" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/build-init" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/cli" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/code-quality" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/core" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/dependency-management" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/diagnostics" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/ear" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/ide" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/ide-native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/internal-integ-testing" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/internal-testing" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/ivy" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/jacoco" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/javascript" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/jetty" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/language-groovy" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/language-java" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/language-jvm" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/language-native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/language-scala" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/launcher" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/maven" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/messaging" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/model-core" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/model-groovy" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/open-api" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/osgi" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/platform-base" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/platform-jvm" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/platform-native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/platform-play" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/plugin-development" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/plugin-use" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/plugins" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/publish" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/reporting" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/resources" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/resources-http" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/resources-s3" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/resources-sftp" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/scala" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/signing" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/sonar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/test-kit" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/testing-native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/tooling-api" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/tooling-api-builders" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/ui" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/src/wrapper" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/ant-1.9.3.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/ant-launcher-1.9.3.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-base-services-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-base-services-groovy-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-cli-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-core-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-docs-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-launcher-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-messaging-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-model-core-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-model-groovy-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-native-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-open-api-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-resources-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-tooling-api-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-ui-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/gradle-wrapper-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/groovy-all-2.4.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-announce-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-antlr-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-build-comparison-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-build-init-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-code-quality-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-dependency-management-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-diagnostics-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-ear-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-ide-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-ide-native-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-ivy-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-jacoco-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-javascript-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-jetty-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-language-groovy-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-language-java-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-language-jvm-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-language-native-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-language-scala-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-maven-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-osgi-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-platform-base-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-platform-jvm-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-platform-native-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-platform-play-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-plugin-development-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-plugin-use-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-plugins-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-publish-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-reporting-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-resources-http-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-resources-s3-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-resources-sftp-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-scala-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-signing-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-sonar-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-test-kit-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-testing-native-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/gradle-tooling-api-builders-2.8.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-base-services-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-base-services-groovy-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-cli-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-core-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-docs-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-launcher-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-messaging-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-model-core-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-model-groovy-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-open-api-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-resources-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-tooling-api-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-ui-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-wrapper-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/groovy-all-2.4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-announce-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-antlr-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-build-comparison-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-build-init-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-code-quality-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-dependency-management-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-diagnostics-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ear-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ide-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ide-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ivy-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-jacoco-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-javascript-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-jetty-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-groovy-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-java-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-jvm-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-scala-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-maven-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-osgi-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-base-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-jvm-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-play-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugin-development-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugin-use-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugins-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-publish-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-reporting-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-http-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-s3-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-sftp-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-scala-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-signing-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-sonar-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-test-kit-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-testing-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-tooling-api-builders-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -2762,27 +2425,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/ChangeUserInfo.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmReceiver.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmFinishedReceiver.java" />
-=======
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/UserInfoActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_change_userinfo.xml" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/dialog_schedule_folder.xml" />
       </list>
     </option>
-  </component>
-  <component name="NamedScopeManager">
-    <order />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -2806,29 +2456,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="AndroidView">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-=======
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane>
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Pending" />
@@ -2841,7 +2474,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< HEAD
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
@@ -2856,8 +2488,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-=======
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
@@ -2866,67 +2496,8 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-=======
               <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="remind" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pending" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2941,30 +2512,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../03android-sdk" />
-    <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.126.101:5555" />
-    <property name="FullScreen" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\01android\04workspace\android studio\Pending\app\src\main\res\drawable" />
-    </key>
-=======
-    <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="false" />
+    <property name="device.picker.selection" value="4df10da53d5a8f73" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2980,10 +2539,23 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -3048,7 +2620,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -3063,7 +2635,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -3076,10 +2648,23 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -3101,85 +2686,48 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="4bf53e5b-e29b-457c-8e67-61139f565d3c" name="Default" comment="" />
-      <created>1464232687028</created>
+      <changelist id="057aa888-d9e3-4cbd-8099-1045f78210df" name="Default" comment="" />
+      <created>1464372852038</created>
       <option name="number" value="Default" />
-      <updated>1464232687028</updated>
-=======
-      <changelist id="053b28ff-8251-493b-b82c-da938ab49949" name="Default" comment="" />
-      <created>1462596126026</created>
-      <option name="number" value="Default" />
-      <updated>1462596126026</updated>
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
+      <updated>1464372852038</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20307167" sideWeight="0.49092284" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49146757" sideWeight="0.50907713" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-=======
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
-<<<<<<< HEAD
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-=======
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -3189,586 +2737,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_pending.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/Schedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/ScheduleFolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/ChangeUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="623" column="24" selection-start-line="623" selection-start-column="24" selection-end-line="623" selection-end-column="24" />
-          <folding>
-            <element signature="docComment;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#15411#15447#0" expanded="false" />
-            <element signature="e#15935#16025#0" expanded="false" />
-            <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#17000#17068#0" expanded="false" />
-            <element signature="e#17703#17752#0" expanded="false" />
-            <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#19629#19638#0" expanded="false" />
-            <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="class#33580:34565" expanded="false" />
-            <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
-            <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
-            <element signature="class#34972:35155" expanded="false" />
-            <element signature="method#onClick#0;class#34972:35155" expanded="false" />
-            <element signature="class#37100:37779" expanded="false" />
-            <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
-            <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
-            <element signature="class#38516:38699" expanded="false" />
-            <element signature="method#onClick#0;class#38516:38699" expanded="false" />
-            <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/Schedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/ScheduleFolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/ChangeUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#15411#15447#0" expanded="false" />
-            <element signature="e#15935#16025#0" expanded="false" />
-            <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#17000#17068#0" expanded="false" />
-            <element signature="e#17703#17752#0" expanded="false" />
-            <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#19629#19638#0" expanded="false" />
-            <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="class#33580:34565" expanded="false" />
-            <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
-            <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
-            <element signature="class#34972:35155" expanded="false" />
-            <element signature="method#onClick#0;class#34972:35155" expanded="false" />
-            <element signature="class#37100:37779" expanded="false" />
-            <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
-            <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
-            <element signature="class#38516:38699" expanded="false" />
-            <element signature="method#onClick#0;class#38516:38699" expanded="false" />
-            <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/ChangeUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/Schedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/ScheduleFolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
-          <folding>
-            <element signature="docComment;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#15411#15447#0" expanded="false" />
-            <element signature="e#15935#16025#0" expanded="false" />
-            <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#17000#17068#0" expanded="false" />
-            <element signature="e#17703#17752#0" expanded="false" />
-            <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#19629#19638#0" expanded="false" />
-            <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="class#33580:34565" expanded="false" />
-            <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
-            <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
-            <element signature="class#34972:35155" expanded="false" />
-            <element signature="method#onClick#0;class#34972:35155" expanded="false" />
-            <element signature="class#37100:37779" expanded="false" />
-            <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
-            <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
-            <element signature="class#38516:38699" expanded="false" />
-            <element signature="method#onClick#0;class#38516:38699" expanded="false" />
-            <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/util/ActivityCollector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/BoomComplereReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/remind/AlarmFinishedReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6164383">
-          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-=======
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/AddPendingActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
-          <folding>
-            <element signature="docComment;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#initRecord#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#downloadFile#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="class#5716:6119" expanded="false" />
-            <element signature="method#onStart#0;class#5716:6119" expanded="false" />
-            <element signature="method#onSuccess#0;class#5716:6119" expanded="false" />
-            <element signature="method#onProgress#0;class#5716:6119" expanded="false" />
-            <element signature="method#onFailure#0;class#5716:6119" expanded="false" />
-            <element signature="method#downloadRecord#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#initData#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="e#9906#10046#0" expanded="false" />
-            <element signature="method#editPending#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="class#14016:14566" expanded="false" />
-            <element signature="method#onSuccess#0;class#14016:14566" expanded="false" />
-            <element signature="method#onFailure#0;class#14016:14566" expanded="false" />
-            <element signature="docComment;method#addPending#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#addPending#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="class#15735:16318" expanded="false" />
-            <element signature="method#onSuccess#0;class#15735:16318" expanded="false" />
-            <element signature="method#onClick#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="e#19065#19119#0" expanded="false" />
-            <element signature="e#19222#19288#0" expanded="false" />
-            <element signature="class#20667:20866" expanded="false" />
-            <element signature="method#onClick#0;class#20667:20866" expanded="false" />
-            <element signature="e#21194#21262#0" expanded="false" />
-            <element signature="e#23709#23790#0" expanded="false" />
-            <element signature="class#24079:26213" expanded="false" />
-            <element signature="method#onDateTimeSet#0;class#24079:26213" expanded="false" />
-            <element signature="docComment;method#initView#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#initView#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#onTouch#0;class#MyClickListener#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#uploadRecord#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="class#28620:29106" expanded="false" />
-            <element signature="method#onSuccess#0;class#28620:29106" expanded="false" />
-            <element signature="method#onFailure#0;class#28620:29106" expanded="false" />
-            <element signature="method#avaterEvent#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="class#29561:29696" expanded="false" />
-            <element signature="method#onClick#0;class#29561:29696" expanded="false" />
-            <element signature="method#getFile#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#doHandlerPhoto#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#getCropImageIntent#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#setIntentParams#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="e#31955#31973#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="docComment;method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#cropImageUriByTakePhoto#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="method#uploadPhoto#0;class#AddPendingActivity#0" expanded="false" />
-            <element signature="class#33815:34298" expanded="false" />
-            <element signature="method#onSuccess#0;class#33815:34298" expanded="false" />
-            <element signature="method#onFailure#0;class#33815:34298" expanded="false" />
-            <element signature="method#decodeUriAsBitmap#0;class#AddPendingActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/UserInfoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0333333">
-          <caret line="493" column="48" selection-start-line="493" selection-start-column="48" selection-end-line="493" selection-end-column="48" />
-          <folding>
-            <element signature="docComment;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#onResume#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#initView#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#initView#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#getPicture#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#onClick#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#initData#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#initData#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#isShowBindPhone#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#avaterEvent#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="class#7394:7529" expanded="false" />
-            <element signature="method#onClick#0;class#7394:7529" expanded="false" />
-            <element signature="e#7853#8066#0" expanded="true" />
-            <element signature="e#8065#8066#0" expanded="true" />
-            <element signature="docComment;method#nickDialog#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#onFailure#0;class#9465:10142" expanded="false" />
-            <element signature="docComment;method#emailDialog#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#onFailure#0;class#11570:11933" expanded="false" />
-            <element signature="docComment;method#onBackPressed#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#onActivityResult#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#doHandlerPhoto#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#getCropImageIntent#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#cropImageUriByTakePhoto#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#setIntentParams#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="method#decodeUriAsBitmap#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="docComment;method#uploadAvater#0;class#UserInfoActivity#0" expanded="false" />
-            <element signature="class#17431:18051" expanded="false" />
-            <element signature="method#onSuccess#0;class#17431:18051" expanded="false" />
-            <element signature="method#onFailure#0;class#17431:18051" expanded="false" />
-            <element signature="method#onFailure#0;class#16578:18368" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pending/css/main/Main2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="980" column="41" selection-start-line="980" selection-start-column="41" selection-end-line="980" selection-end-column="41" />
-          <folding>
-            <element signature="docComment;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onResume#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initSchedule#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#refreshMuneList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListDataForIsFinished#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getItemListData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuList#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#finish#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#15411#15447#0" expanded="false" />
-            <element signature="e#15935#16025#0" expanded="false" />
-            <element signature="docComment;method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initNavigationView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#17000#17068#0" expanded="false" />
-            <element signature="e#17703#17752#0" expanded="false" />
-            <element signature="docComment;method#initData#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initDataFromLocal#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#19629#19638#0" expanded="false" />
-            <element signature="docComment;method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#initmPopupWindowView#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#openKeyboard#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#getMenuListDataForSearch#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onCreateSupportNavigateUpTaskStack#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="e#30631#30674#0" expanded="false" />
-            <element signature="method#onNavigationItemSelected#0;class#Main2Activity#0" expanded="false" />
-            <element signature="class#33580:34565" expanded="false" />
-            <element signature="method#onSuccess#0;class#33580:34565" expanded="false" />
-            <element signature="method#onFailure#0;class#33580:34565" expanded="false" />
-            <element signature="class#34972:35155" expanded="false" />
-            <element signature="method#onClick#0;class#34972:35155" expanded="false" />
-            <element signature="class#37100:37779" expanded="false" />
-            <element signature="method#onSuccess#0;class#37100:37779" expanded="false" />
-            <element signature="method#onFailure#0;class#37100:37779" expanded="false" />
-            <element signature="class#38516:38699" expanded="false" />
-            <element signature="method#onClick#0;class#38516:38699" expanded="false" />
-            <element signature="method#onPrepareOptionsMenu#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#onActivityResult#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main2Activity#0" expanded="false" />
-            <element signature="docComment;method#timeFormatString#0;class#Main2Activity#0" expanded="false" />
-            <element signature="method#onBackPressed#0;class#Main2Activity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_change_userinfo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25671643">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_schedule_folder.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8327759">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
     </entry>
->>>>>>> e7f0bb315de5dbab7024ef7ec171e699d2906075
   </component>
 </project>
