@@ -77,6 +77,7 @@ public class AddPendingActivity extends FragmentActivity implements View.OnClick
     private int isRecordChanged = 0;
     private int isPhotoChanged = 0;
     private String flag = "";
+    private String flag1 = "";
 
     boolean isLongClick = false;
     private int isRecordExixt = 0;
