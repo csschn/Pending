@@ -44,6 +44,7 @@ import com.pending.css.bean.Schedule;
 import com.pending.css.bean.ScheduleFolder;
 import com.pending.css.bean.User;
 import com.pending.css.config.Constants;
+import com.pending.css.dao.ScheduleFolderDao;
 import com.pending.css.login.LoginActivity;
 import com.pending.css.login.R;
 import com.pending.css.login.SetLockActivity;
@@ -51,6 +52,7 @@ import com.pending.css.remind.InitAlarmService;
 import com.pending.css.util.ActivityCollector;
 import com.pending.css.util.ImageLoadHelper;
 import com.pending.css.util.PreferenceUtil;
+import com.pending.css.util.ScreenUtils;
 import com.pending.css.util.T;
 import com.pending.css.widget.SlideCutListView;
 
@@ -60,7 +62,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.pending.css.dao.ScheduleFolderDao;
 import cn.bmob.v3.Bmob;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.BmobUser;
@@ -542,9 +543,9 @@ public class Main2Activity  extends     AppCompatActivity
                     Rect frame = new Rect();
                     getWindow().getDecorView().getWindowVisibleDisplayFrame(frame);
                     //状态栏高度：frame.top
-                    int xOffset = frame.top+toolbar.getHeight();//减去阴影宽度，适配UI.
+                    int xOffset = toolbar.getHeight();//减去阴影宽度，适配UI.
                     initmPopupWindowView(xOffset);
-                    popupwindow.showAsDropDown(view, 0, 0);
+                    popupwindow.showAsDropDown(view, 0, ScreenUtils.getStatusHeight(Main2Activity.this));
                     openKeyboard(new Handler(), 300);
                 }
                 break;
